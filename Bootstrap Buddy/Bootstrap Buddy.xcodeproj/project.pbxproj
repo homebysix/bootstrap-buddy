@@ -90,7 +90,7 @@
 			dependencies = (
 			);
 			name = "Bootstrap Buddy";
-			productName = "Escrow Buddy";
+			productName = "Bootstrap Buddy";
 			productReference = C9C59E2429EC6785004C874F /* Bootstrap Buddy.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
